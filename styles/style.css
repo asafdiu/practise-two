@@ -17,12 +17,13 @@ h1{
     border-left-color: aqua;
     border-right-color: aqua;
     background-color: black;
-    box-shadow: 5px 10px 10px rgb(56, 51, 51);
+    box-shadow: 5px 10px 10px rgb(15, 12, 12);
     margin:auto;
 }
 .boxes{
     width: 200px;
     height: 300px;
+    background-color: rgba(0, 0, 0, 0.4);
     border: 1px solid rgb(0, 0, 0);
     padding: 0px;
     margin: 10px;
