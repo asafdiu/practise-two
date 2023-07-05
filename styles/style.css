@@ -3,6 +3,14 @@ h1{
     text-align: center;
 }
 .topdiv{
-    background-color: rgb(131, 89, 89);
-    background-position: 50%;
+    border: 5px solid tomato;
+    border-style:solid;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-left-color: aqua;
+    border-right-color: aqua;
+    background-color: black;
+    box-shadow: 20px 10px 10px rgb(211, 139, 139);
+    margin: auto;
 }
